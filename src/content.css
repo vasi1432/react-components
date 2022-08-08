@@ -1,0 +1,42 @@
+p {
+  background-color: rgb(212, 212, 212);
+  color: black;
+  margin: 0;
+  padding: 20px;
+  font-size: 30px;
+  font-weight: bolder;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+h2 {
+  background-color: black;
+  color: white;
+  margin: 0;
+  padding: 20px;
+  font-size: 30px;
+  font-weight: bolder;
+  display: flex;
+  justify-content: center;
+}
+.input {
+  padding: 10px 80px;
+  border-radius: 10px;
+  font-size: 25px;
+}
+.input02 {
+  padding: 10px;
+  border-radius: 10px;
+}
+button {
+  padding: 10px;
+}
+.h1 {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+}
+.h1 button {
+  font-size: 50px;
+}
